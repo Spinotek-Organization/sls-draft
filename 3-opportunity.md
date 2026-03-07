@@ -39,7 +39,7 @@ Setiap aktivitas belajar menghasilkan data yang sangat berharga.
 Institusi kini mulai membutuhkan sistem yang mampu:
 
 - Menganalisis progres pembelajaran
-- Memantau engagement mahasiswa
+- Memantau engagement pelajar
 - Mengidentifikasi kesulitan belajar
 - Memberikan insight kepada pengajar
 
@@ -49,8 +49,8 @@ Learning analytics akan menjadi komponen penting dalam sistem pembelajaran moder
 
 Perkembangan teknologi AI membuka berbagai kemungkinan baru dalam pendidikan, seperti:
 
-- AI tutor untuk membantu mahasiswa memahami materi
-- AI untuk membantu dosen membuat soal dan materi
+- AI tutor untuk membantu pelajar memahami materi
+- AI untuk membantu pengajar membuat soal dan materi
 - AI untuk menganalisis performa pembelajaran
 
 Integrasi AI dalam sistem pembelajaran akan membantu meningkatkan efisiensi dan kualitas proses belajar.

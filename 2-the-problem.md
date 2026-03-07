@@ -10,12 +10,12 @@ Beberapa masalah yang sering terjadi antara lain:
 
 ### 1. LMS Terasa Rumit dan Tidak User Friendly
 
-Banyak LMS memiliki tampilan yang kompleks dan sulit digunakan oleh dosen maupun mahasiswa.
+Banyak LMS memiliki tampilan yang kompleks dan sulit digunakan oleh pengajar maupun pelajar.
 
 Akibatnya:
 
-- Dosen kesulitan mengelola materi
-- Mahasiswa bingung cara penggunaan nya
+- Pengajar kesulitan mengelola materi
+- Pelajar bingung cara penggunaan nya
 - Proses belajar menjadi tidak efisien
 
 Banyak institusi menggunakan platform seperti Moodle, namun konfigurasi yang rumit dan tampilan yang kurang modern membuat pengalaman pengguna tidak optimal.
@@ -24,7 +24,7 @@ Banyak institusi menggunakan platform seperti Moodle, namun konfigurasi yang rum
 
 Dalam banyak kasus:
 
-- Dosen hanya mengunggah file PDF
+- Pengajar hanya mengunggah file PDF
 - Fitur diskusi jarang digunakan
 - Evaluasi pembelajaran tidak optimal
 
@@ -45,7 +45,7 @@ Padahal assessment adalah bagian penting dalam proses pembelajaran.
 
 Setiap aktivitas belajar menghasilkan data penting, seperti:
 
-- Tingkat partisipasi mahasiswa
+- Tingkat partisipasi pelajar
 - Progres pembelajaran
 - Performa ujian
 - Engagement terhadap materi
@@ -56,8 +56,8 @@ Namun, sebagian besar LMS tidak menyediakan **analytics yang membantu institusi 
 
 Teknologi AI membuka peluang baru dalam pendidikan, seperti:
 
-- Membantu mahasiswa memahami materi
-- Membantu dosen membuat soal
+- Membantu pelajar memahami materi
+- Membantu pengajar membuat soal
 - Menganalisis performa pembelajaran
 
 Namun, sebagian besar LMS saat ini belum mengintegrasikan AI secara efektif.

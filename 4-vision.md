@@ -16,8 +16,8 @@ Untuk mewujudkan visi tersebut, Spinotek Learning System dibangun dengan beberap
 
 Sistem harus mudah digunakan oleh semua pihak:
 
-- Mahasiswa
-- Dosen
+- Pelajar
+- Pengajar
 - Administrator
 
 Pengalaman pengguna yang sederhana dan intuitif akan meningkatkan adopsi sistem dalam kegiatan pembelajaran.
@@ -42,7 +42,7 @@ Setiap aktivitas pembelajaran menghasilkan data yang dapat dianalisis untuk memb
 Melalui learning analytics, institusi dapat:
 
 - Memantau progres pembelajaran
-- Memahami engagement mahasiswa
+- Memahami engagement pelajar
 - Meningkatkan kualitas proses belajar.
 
 ### 4. AI-Powered Learning
@@ -51,7 +51,7 @@ Teknologi AI akan menjadi bagian penting dalam sistem pembelajaran masa depan.
 
 Spinotek Learning System akan memanfaatkan AI untuk membantu:
 
-- Mahasiswa memahami materi
+- Pelajar memahami materi
 - Pengajar menyusun soal dan materi
 - Institusi menganalisis performa pembelajaran.
 

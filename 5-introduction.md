@@ -41,7 +41,7 @@ Spinotek Learning System dibangun dengan pendekatan modern yang menekankan tiga 
 
 **Modern Experience**
 
-Antarmuka yang intuitif dan mudah digunakan oleh mahasiswa, pengajar, maupun administrator.
+Antarmuka yang intuitif dan mudah digunakan oleh pelajar, pengajar, maupun administrator.
 
 **Modular System**
 
@@ -57,7 +57,7 @@ Teknologi AI akan menjadi bagian integral dari Spinotek Learning System.
 
 AI akan digunakan untuk membantu:
 
-- Mahasiswa memahami materi pembelajaran
+- Pelajar memahami materi pembelajaran
 - Pengajar menyusun soal dan materi
 - Institusi menganalisis proses pembelajaran secara lebih mendalam.
 

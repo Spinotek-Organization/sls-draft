@@ -8,13 +8,13 @@ Dengan pendekatan modular dan fleksibel, platform ini dapat digunakan dalam berb
 
 **Perguruan Tinggi**
 
-Perguruan tinggi membutuhkan sistem pembelajaran digital untuk mendukung proses belajar mengajar antara dosen dan mahasiswa.
+Perguruan tinggi membutuhkan sistem pembelajaran digital untuk mendukung proses belajar mengajar antara pengajar dan pelajar.
 
 Spinotek Learning System dapat membantu perguruan tinggi dalam:
 
 - Mengelola materi perkuliahan
 - Menyelenggarakan ujian online
-- Memantau progres pembelajaran mahasiswa
+- Memantau progres pembelajaran pelajar
 - Menganalisis performa pembelajaran
 
 Dengan sistem ini, kampus dapat membangun ekosistem pembelajaran digital yang lebih terstruktur dan terintegrasi.

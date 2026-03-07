@@ -14,7 +14,7 @@ Setiap aktivitas pembelajaran dalam sistem menghasilkan data yang dapat dianalis
 
 Learning analytics memungkinkan institusi untuk memahami berbagai aspek pembelajaran, seperti:
 
-- Tingkat partisipasi mahasiswa
+- Tingkat partisipasi pelajar
 - Progres pembelajaran
 - Performa ujian
 - Tingkat penyelesaian materi
@@ -24,21 +24,21 @@ Melalui dashboard analytics, pengajar dan institusi dapat memantau perkembangan 
 
 ## Insight untuk Pengajar
 
-Data pembelajaran dapat membantu pengajar memahami kondisi mahasiswa secara lebih baik.
+Data pembelajaran dapat membantu pengajar memahami kondisi pelajar secara lebih baik.
 
 Contoh insight yang dapat diperoleh antara lain:
 
-- Mahasiswa yang jarang mengakses materi
-- Mahasiswa yang mengalami kesulitan dalam suatu topik
+- Pelajar yang jarang mengakses materi
+- Pelajar yang mengalami kesulitan dalam suatu topik
 - Materi yang memiliki tingkat kesulitan tinggi
 
 Insight ini membantu pengajar mengambil langkah yang lebih tepat dalam proses pembelajaran.
 
 ## AI Learning Assistant
 
-Spinotek Learning System memanfaatkan teknologi AI untuk mendukung proses pembelajaran bagi mahasiswa dan pengajar.
+Spinotek Learning System memanfaatkan teknologi AI untuk mendukung proses pembelajaran bagi pelajar dan pengajar.
 
-AI dapat membantu mahasiswa dalam memahami materi pembelajaran melalui fitur seperti:
+AI dapat membantu pelajar dalam memahami materi pembelajaran melalui fitur seperti:
 
 - AI tutor untuk menjawab pertanyaan terkait materi
 - AI summary untuk merangkum konten pembelajaran

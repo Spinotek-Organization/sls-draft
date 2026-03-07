@@ -61,7 +61,7 @@ Tahap selanjutnya adalah pengembangan modul analytics yang membantu institusi me
 
 Dashboard analytics dapat menampilkan berbagai insight seperti:
 
-- Tingkat partisipasi mahasiswa
+- Tingkat partisipasi pelajar
 - Progres pembelajaran
 - Performa ujian
 - Tingkat penyelesaian course
@@ -76,7 +76,7 @@ Tahap berikutnya adalah integrasi teknologi AI untuk meningkatkan pengalaman pem
 
 Fitur AI yang dapat dikembangkan antara lain:
 
-- AI tutor untuk membantu mahasiswa memahami materi
+- AI tutor untuk membantu pelajar memahami materi
 - AI question generator untuk membantu pengajar membuat soal
 - AI content summary untuk merangkum materi pembelajaran
 - AI learning analytics untuk memberikan insight yang lebih mendalam

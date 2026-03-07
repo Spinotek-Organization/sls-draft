@@ -53,7 +53,7 @@ Fitur berbasis AI dapat ditawarkan sebagai layanan tambahan dalam platform.
 
 Contoh fitur AI yang dapat digunakan antara lain:
 
-- AI tutor untuk membantu mahasiswa memahami materi
+- AI tutor untuk membantu pelajar memahami materi
 - AI question generator untuk membantu pengajar membuat soal
 - AI content summary untuk merangkum materi pembelajaran
 

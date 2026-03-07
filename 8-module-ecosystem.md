@@ -33,7 +33,7 @@ Dengan sistem ini, institusi dapat menyelenggarakan ujian secara digital dengan 
 
 Modul Learning Management membantu institusi dalam mengelola proses pembelajaran secara digital.
 
-Melalui modul ini, pengajar dapat menyusun materi pembelajaran, memberikan tugas, serta memantau progres pembelajaran mahasiswa.
+Melalui modul ini, pengajar dapat menyusun materi pembelajaran, memberikan tugas, serta memantau progres pembelajaran pelajar.
 
 Fitur utama dalam modul ini meliputi:
 
@@ -69,7 +69,7 @@ Data aktivitas pembelajaran dapat dianalisis untuk memberikan insight yang memba
 
 Contoh analisis yang dapat ditampilkan antara lain:
 
-- Tingkat partisipasi mahasiswa
+- Tingkat partisipasi pelajar
 - Performa ujian
 - Progres pembelajaran
 - Tingkat penyelesaian course
@@ -82,11 +82,11 @@ Dengan analisis ini, institusi dapat mengambil keputusan berbasis data dalam men
 
 Spinotek Learning System memanfaatkan teknologi AI untuk membantu meningkatkan efisiensi proses pembelajaran.
 
-AI dapat digunakan untuk membantu mahasiswa, pengajar, maupun institusi dalam berbagai aktivitas pembelajaran.
+AI dapat digunakan untuk membantu pelajar, pengajar, maupun institusi dalam berbagai aktivitas pembelajaran.
 
 Contoh penggunaan AI dalam sistem ini antara lain:
 
-- AI Tutor untuk membantu mahasiswa memahami materi
+- AI Tutor untuk membantu pelajar memahami materi
 - AI Question Generator untuk membantu pengajar membuat soal
 - AI Content Summary untuk merangkum materi pembelajaran
 - AI Essay Assistance untuk membantu evaluasi tugas essay
