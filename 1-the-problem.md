@@ -20,7 +20,7 @@ Akibatnya:
 
 Banyak institusi menggunakan platform seperti Moodle, namun konfigurasi yang rumit dan tampilan yang kurang modern membuat pengalaman pengguna tidak optimal.
 
-### 2. Penggunaan LMS di Kampus Sering Tidak Maksimal
+### 2. Penggunaan LMS di Institusi Pendidikan Sering Tidak Maksimal
 
 Dalam banyak kasus:
 
@@ -62,8 +62,23 @@ Teknologi AI membuka peluang baru dalam pendidikan, seperti:
 
 Namun, sebagian besar LMS saat ini belum mengintegrasikan AI secara efektif.
 
+### 6. Belum Ada Ruang Digital yang Aman dan Terkontrol untuk Kegiatan Belajar
+
+Dengan diterbitkannya **Peraturan Menteri Komunikasi dan Digital Nomor 9 Tahun 2026**, pemerintah mulai membatasi akses anak di bawah 16 tahun ke platform digital berisiko tinggi seperti YouTube, TikTok, Instagram, dan lainnya.
+
+Kondisi ini menimbulkan tantangan baru bagi institusi pendidikan:
+
+- Pelajar kehilangan akses ke ruang digital yang selama ini digunakan untuk kegiatan belajar informal
+- Institusi belum memiliki platform sendiri yang aman dan dirancang khusus untuk pembelajaran
+- Orang tua tidak memiliki visibilitas terhadap aktivitas digital anak dalam konteks belajar
+- Belum ada mekanisme yang memungkinkan orang tua memantau progres dan keterlibatan anak dalam proses pembelajaran secara digital
+
+Di sisi lain, orang tua semakin membutuhkan **kontrol dan transparansi** terhadap aktivitas digital anak-anak mereka. Namun sebagian besar LMS yang ada saat ini tidak menyediakan fitur untuk melibatkan orang tua dalam memantau proses belajar.
+
 ## Closing Opportunity Statement
 
 Akibat dari berbagai masalah tersebut, banyak institusi pendidikan belum mendapatkan manfaat maksimal dari sistem pembelajaran digital yang mereka gunakan.
 
-Padahal dengan pendekatan yang lebih modern, sistem pembelajaran digital dapat menjadi **infrastruktur penting untuk meningkatkan kualitas pendidikan.**
+Di saat yang bersamaan, regulasi pemerintah kini mendorong institusi untuk menyediakan **ruang digital yang aman, terkontrol, dan bertanggung jawab** bagi pelajar.
+
+Dengan pendekatan yang lebih modern, sistem pembelajaran digital dapat menjadi **infrastruktur penting yang tidak hanya meningkatkan kualitas pendidikan, tetapi juga menjadi ruang digital yang aman bagi generasi muda.**
