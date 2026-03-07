@@ -70,7 +70,7 @@ Sebagai bagian dari implementasi kebijakan tersebut, pemerintah menetapkan pemba
 
 Langkah ini menunjukkan bahwa pemerintah mendorong terciptanya **ruang digital yang lebih aman dan bertanggung jawab bagi generasi muda**.
 
-# Implikasi bagi Dunia Pendidikan
+## Implikasi bagi Dunia Pendidikan
 
 Dengan semakin ketatnya regulasi terhadap platform digital umum, institusi pendidikan membutuhkan platform pembelajaran yang:
 
@@ -80,7 +80,7 @@ Dengan semakin ketatnya regulasi terhadap platform digital umum, institusi pendi
 
 Hal ini membuka peluang bagi platform pembelajaran yang tidak hanya berfungsi sebagai tempat distribusi materi, tetapi juga menjadi **ruang digital yang aman dan terstruktur untuk kegiatan belajar**.
 
-# Posisi Spinotek Learning System
+## Posisi Spinotek Learning System
 
 Dalam konteks tersebut, Spinotek Learning System dikembangkan untuk membantu institusi pendidikan membangun platform pembelajaran digital yang:
 
