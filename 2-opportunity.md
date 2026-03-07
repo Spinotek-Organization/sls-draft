@@ -69,14 +69,26 @@ Sementara yang lain membutuhkan platform pembelajaran yang lebih lengkap.
 
 Karena itu, sistem pembelajaran modern perlu memiliki pendekatan **modular dan mudah diintegrasikan dengan sistem lain**.
 
+## 6. Regulasi Mendorong Kebutuhan Ruang Digital Aman
+
+Dengan diterbitkannya **Peraturan Menteri Komunikasi dan Digital Nomor 9 Tahun 2026**, pemerintah membatasi akses anak di bawah 16 tahun ke platform digital berisiko tinggi seperti YouTube, TikTok, dan Instagram.
+
+Kondisi ini menciptakan peluang baru:
+
+- Institusi pendidikan membutuhkan **platform digital sendiri** yang aman dan dirancang khusus untuk pembelajaran
+- Orang tua membutuhkan **visibilitas dan kontrol** terhadap aktivitas digital anak dalam konteks belajar
+- Dibutuhkan sistem yang memungkinkan orang tua memantau progres, keterlibatan, dan aktivitas anak secara transparan
+
+Platform pembelajaran digital yang mampu menjawab kebutuhan ini memiliki keunggulan kompetitif yang signifikan.
+
 ## Closing Opportunity Statement
 
-Perubahan cara belajar, perkembangan teknologi, serta meningkatnya kebutuhan akan data dan efisiensi membuka peluang besar untuk menghadirkan platform pembelajaran digital generasi berikutnya.
+Perubahan cara belajar, perkembangan teknologi, kebijakan regulasi perlindungan anak, serta meningkatnya kebutuhan akan data dan efisiensi membuka peluang besar untuk menghadirkan platform pembelajaran digital generasi berikutnya.
 
 Institusi pendidikan membutuhkan sistem yang:
 
-- Modern
-- Intuitif
-- Modular
-- Berbasis data
-- Dan didukung oleh AI.
+- Modern dan intuitif
+- Modular dan fleksibel
+- Berbasis data dan didukung AI
+- Aman bagi pelajar
+- Serta memberikan transparansi bagi orang tua.

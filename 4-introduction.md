@@ -18,9 +18,11 @@ Spinotek Learning System dirancang untuk melampaui fungsi tersebut dengan mengha
 - Sistem ujian online
 - Sertifikasi digital
 - Analisis data pembelajaran
+- Lingkungan digital yang aman bagi pelajar
+- Transparansi bagi orang tua
 - Integrasi dengan sistem lain
 
-Dengan pendekatan ini, platform tidak hanya menjadi tempat menyimpan materi pembelajaran, tetapi juga menjadi **infrastruktur yang mendukung keseluruhan proses pembelajaran digital**.
+Dengan pendekatan ini, platform tidak hanya menjadi tempat menyimpan materi pembelajaran, tetapi juga menjadi **infrastruktur yang aman dan mendukung keseluruhan proses pembelajaran digital**.
 
 ## Dirancang untuk Berbagai Institusi
 
@@ -35,9 +37,9 @@ Spinotek Learning System dapat digunakan oleh berbagai jenis institusi yang memi
 
 Fleksibilitas sistem memungkinkan setiap institusi mengadopsi platform ini sesuai dengan kebutuhan mereka.
 
-## Modern, Modular, and Data-Driven
+## Modern, Modular, Safe, and Data-Driven
 
-Spinotek Learning System dibangun dengan pendekatan modern yang menekankan tiga aspek utama:
+Spinotek Learning System dibangun dengan pendekatan modern yang menekankan empat aspek utama:
 
 **Modern Experience**
 
@@ -46,6 +48,10 @@ Antarmuka yang intuitif dan mudah digunakan oleh pelajar, pengajar, maupun admin
 **Modular System**
 
 Institusi dapat memilih dan menggunakan modul sistem sesuai kebutuhan mereka.
+
+**Safe Environment**
+
+Lingkungan digital yang aman bagi pelajar dan memberikan transparansi bagi orang tua dalam memantau aktivitas belajar anak.
 
 **Data-Driven Learning**
 

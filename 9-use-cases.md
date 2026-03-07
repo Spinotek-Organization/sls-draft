@@ -23,7 +23,7 @@ Dengan sistem ini, kampus dapat membangun ekosistem pembelajaran digital yang le
 
 **Sekolah**
 
-Sekolah juga membutuhkan sistem pembelajaran digital untuk mendukung kegiatan belajar mengajar, baik secara online maupun hybrid.
+Sekolah membutuhkan sistem pembelajaran digital yang tidak hanya mendukung kegiatan belajar mengajar, tetapi juga menyediakan **ruang digital yang aman** bagi siswa, terutama dengan semakin ketatnya regulasi perlindungan anak di ruang digital.
 
 Spinotek Learning System dapat membantu sekolah dalam:
 
@@ -31,8 +31,10 @@ Spinotek Learning System dapat membantu sekolah dalam:
 - Pengelolaan tugas siswa
 - Penyelenggaraan ujian digital
 - Pemantauan perkembangan siswa
+- Menyediakan lingkungan digital yang aman dan terkontrol
+- Memberikan akses bagi orang tua untuk memantau progres dan aktivitas belajar anak
 
-Platform ini dapat membantu sekolah mengadopsi pembelajaran digital secara lebih efektif.
+Dengan fitur transparansi bagi orang tua, sekolah dapat membangun kepercayaan dan kolaborasi yang lebih baik antara institusi dan keluarga dalam mendukung proses belajar siswa.
 
 # 3. Training Institutions
 

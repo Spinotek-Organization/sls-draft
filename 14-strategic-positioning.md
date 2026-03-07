@@ -19,8 +19,21 @@ Platform ini menggabungkan berbagai komponen penting seperti:
 - Sertifikasi
 - Analisis data pembelajaran
 - Integrasi AI
+- Lingkungan digital yang aman bagi pelajar
 
 Pendekatan ini memungkinkan Spinotek Learning System berkembang sebagai platform pembelajaran yang lebih komprehensif.
+
+## Safe Digital Learning Space
+
+Di tengah semakin ketatnya regulasi perlindungan anak di ruang digital, Spinotek Learning System juga diposisikan sebagai **ruang digital yang aman dan terkontrol** untuk kegiatan belajar.
+
+Platform ini dirancang untuk:
+
+- Menyediakan lingkungan belajar yang bebas dari konten berbahaya
+- Memberikan kontrol penuh kepada institusi atas aktivitas digital pelajar
+- Menyediakan transparansi bagi orang tua untuk memantau aktivitas dan progres belajar anak
+
+Dengan positioning ini, Spinotek Learning System tidak hanya menjadi alternatif dari LMS konvensional, tetapi juga menjadi solusi atas kebutuhan regulasi dan keamanan digital.
 
 ## Learning Infrastructure Platform
 
@@ -37,8 +50,8 @@ Dengan pendekatan ini, Spinotek dapat menjadi bagian penting dalam ekosistem pen
 
 ## Supporting the Education Ecosystem
 
-Melalui Spinotek Learning System, Spinotek ingin membantu institusi pendidikan membangun sistem pembelajaran digital yang lebih modern dan adaptif.
+Melalui Spinotek Learning System, Spinotek ingin membantu institusi pendidikan membangun sistem pembelajaran digital yang lebih modern, aman, dan adaptif.
 
-Platform ini diharapkan dapat menjadi salah satu komponen penting dalam mendukung transformasi digital di sektor pendidikan.
+Platform ini diharapkan dapat menjadi salah satu komponen penting dalam mendukung transformasi digital di sektor pendidikan, sekaligus menjawab kebutuhan akan ruang digital yang aman bagi generasi muda.
 
-Dengan menggabungkan teknologi, data, dan AI, Spinotek memiliki peluang untuk berkontribusi dalam membangun sistem pembelajaran yang lebih efektif di masa depan.
+Dengan menggabungkan teknologi, data, AI, dan pendekatan keamanan digital, Spinotek memiliki peluang untuk berkontribusi dalam membangun sistem pembelajaran yang lebih efektif dan bertanggung jawab di masa depan.

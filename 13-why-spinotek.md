@@ -62,8 +62,20 @@ Spinotek berada pada posisi yang menghubungkan dua dunia yang sangat penting:
 
 Dengan kombinasi pengalaman dalam pengembangan sistem digital dan keterlibatan dalam ekosistem pendidikan, Spinotek memiliki peluang untuk membangun platform pembelajaran digital yang benar-benar relevan dengan kebutuhan institusi.
 
+## Right Momentum
+
+Selain didukung oleh ekosistem dan pengalaman, Spinotek juga mengembangkan platform ini pada momentum yang tepat.
+
+Dengan diterbitkannya regulasi perlindungan anak di ruang digital, institusi pendidikan semakin membutuhkan platform pembelajaran yang:
+
+- Aman dan terkontrol bagi pelajar
+- Memberikan transparansi bagi orang tua
+- Tidak bergantung pada platform publik berisiko tinggi
+
+Spinotek Learning System dirancang untuk menjawab kebutuhan ini sejak awal.
+
 ## Closing Statement
 
-Dengan dukungan ekosistem pendidikan yang kuat serta pengalaman dalam membangun sistem digital, Spinotek berada pada posisi yang tepat untuk mengembangkan platform pembelajaran digital yang modern, fleksibel, dan berbasis data.
+Dengan dukungan ekosistem pendidikan yang kuat, pengalaman dalam membangun sistem digital, serta momentum regulasi yang mendorong kebutuhan akan ruang digital aman, Spinotek berada pada posisi yang tepat untuk mengembangkan platform pembelajaran digital yang modern, aman, fleksibel, dan berbasis data.
 
 Spinotek Learning System diharapkan dapat menjadi bagian dari infrastruktur pembelajaran digital yang mendukung perkembangan pendidikan di masa depan.
