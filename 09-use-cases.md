@@ -4,6 +4,67 @@ Spinotek Learning System dirancang untuk mendukung berbagai institusi yang memil
 
 Dengan pendekatan modular dan fleksibel, platform ini dapat digunakan dalam berbagai konteks pembelajaran, mulai dari pendidikan formal hingga pelatihan profesional.
 
+## Matrix Institusi × Modul
+
+| Institusi | Exam | LMS | Certification | Analytics | AI | Safe Space | Parent Access |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🎓 **Perguruan Tinggi** | ✅ | ✅ | ✅ | ✅ | ✅ | — | — |
+| 🏫 **Sekolah** | ✅ | ✅ | — | ✅ | ✅ | ✅ | ✅ |
+| 📚 **Lembaga Pelatihan** | ✅ | ✅ | ✅ | — | — | — | — |
+| 📜 **Institusi Sertifikasi** | ✅ | — | ✅ | — | — | — | — |
+| 🏢 **Korporasi** | ✅ | ✅ | ✅ | ✅ | — | — | — |
+
+```mermaid
+graph LR
+    subgraph INSTITUSI["👥 Customer Segments"]
+        I1["🎓 Perguruan Tinggi"]
+        I2["🏫 Sekolah"]
+        I3["📚 Lembaga Pelatihan"]
+        I4["📜 Institusi Sertifikasi"]
+        I5["🏢 Korporasi"]
+    end
+
+    subgraph MODUL["🧩 Modul"]
+        M1["📝 Online Exam"]
+        M2["📚 Learning Mgmt"]
+        M3["📜 Certification"]
+        M4["📊 Analytics"]
+        M5["🤖 AI Assistant"]
+        M6["🔒 Safe Space"]
+        M7["👨‍👩‍👧 Parent Access"]
+    end
+
+    I1 --> M1
+    I1 --> M2
+    I1 --> M3
+    I1 --> M4
+    I1 --> M5
+
+    I2 --> M1
+    I2 --> M2
+    I2 --> M4
+    I2 --> M5
+    I2 --> M6
+    I2 --> M7
+
+    I3 --> M1
+    I3 --> M2
+    I3 --> M3
+
+    I4 --> M1
+    I4 --> M3
+
+    I5 --> M1
+    I5 --> M2
+    I5 --> M3
+    I5 --> M4
+
+    style INSTITUSI fill:#1a1a2e,stroke:#e94560,color:#ffffff
+    style MODUL fill:#16213e,stroke:#0f3460,color:#ffffff
+```
+
+---
+
 # 1. Universities & Higher Education
 
 **Perguruan Tinggi**

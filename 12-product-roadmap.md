@@ -4,6 +4,49 @@ Roadmap menjelaskan bagaimana Spinotek Learning System akan dikembangkan secara 
 
 Pendekatan bertahap ini memungkinkan pengembangan sistem yang lebih fokus, sekaligus memberikan nilai nyata bagi institusi sejak tahap awal.
 
+## Roadmap Visual
+
+```mermaid
+graph LR
+    P1["📝 Phase 1. Online Exam System"]
+    P2["📚 Phase 2. Learning Management"]
+    P3["📜 Phase 3. Certification & Training"]
+    P4["📊 Phase 4. Learning Analytics"]
+    P5["🤖 Phase 5. AI-Powered Learning"]
+
+    P1 -->|"✅"| P2 -->|"➡️"| P3 -->|"➡️"| P4 -->|"➡️"| P5
+
+    style P1 fill:#0f3460,stroke:#e94560,color:#ffffff,stroke-width:2px
+    style P2 fill:#16213e,stroke:#0f3460,color:#ffffff
+    style P3 fill:#16213e,stroke:#0f3460,color:#ffffff
+    style P4 fill:#16213e,stroke:#0f3460,color:#ffffff
+    style P5 fill:#16213e,stroke:#0f3460,color:#ffffff
+```
+
+```mermaid
+gantt
+    title Tahapan Pengembangan Spinotek Learning System
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+
+    section Phase 1
+    Online Exam System           :done, p1, 2026-04-01, 30d
+
+    section Phase 2
+    Learning Management          :active, p2, 2026-05-01, 30d
+
+    section Phase 3
+    Certification & Training     :p3, 2026-06-01, 30d
+
+    section Phase 4
+    Learning Analytics           :p4, 2026-07-01, 30d
+
+    section Phase 5
+    AI-Powered Learning          :p5, 2026-08-01, 120d
+```
+
+---
+
 # Phase 1
 
 **Online Exam System**

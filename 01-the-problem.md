@@ -8,6 +8,37 @@ Banyak LMS saat ini terlalu kompleks, kurang intuitif, dan tidak memanfaatkan da
 
 Beberapa masalah yang sering terjadi antara lain:
 
+```mermaid
+mindmap
+  root["⚠️ Masalah Sistem Pembelajaran Digital"]
+    ["😤 1. LMS Rumit & Tidak User Friendly"]
+      Pengajar kesulitan
+      Pelajar bingung
+      Proses tidak efisien
+    ["📂 2. LMS Hanya Jadi Repositori"]
+      Hanya upload PDF
+      Diskusi tidak aktif
+      Evaluasi tidak optimal
+    ["⏱️ 3. Ujian Online Kurang Andal"]
+      Sistem lambat
+      Soal tidak efisien
+      Kecurangan sulit dikontrol
+    ["📊 4. Data Tidak Dimanfaatkan"]
+      Tidak ada analytics
+      Insight tidak tersedia
+      Keputusan tanpa data
+    ["🤖 5. Tidak Ada Dukungan AI"]
+      Belum ada AI tutor
+      Belum ada AI soal generator
+      Belum ada AI analytics
+    ["🔓 6. Tidak Ada Ruang Digital Aman"]
+      Regulasi pembatasan platform
+      Tidak ada kontrol institusi
+      Orang tua tidak punya visibilitas
+```
+
+---
+
 ### 1. LMS Terasa Rumit dan Tidak User Friendly
 
 Banyak LMS memiliki tampilan yang kompleks dan sulit digunakan oleh pengajar maupun pelajar.

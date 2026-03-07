@@ -8,6 +8,60 @@ Pendekatan ini memungkinkan institusi untuk mengadopsi sistem sesuai dengan kebu
 
 Dengan arsitektur modular, Spinotek Learning System dapat berkembang secara bertahap seiring dengan kebutuhan institusi.
 
+## Arsitektur Modular
+
+```mermaid
+graph TB
+    subgraph CORE["🔧 CORE PLATFORM"]
+        C1["👥 Manajemen Pengguna"]
+        C2["🏢 Manajemen Organisasi"]
+        C3["🔐 Role & Permission"]
+        C4["🔑 Autentikasi & SSO"]
+        C5["🔗 API & Integrasi"]
+    end
+
+    subgraph LEARN["📚 Learning Modules"]
+        L1["Course Management"]
+        L2["Assignment Management"]
+        L3["Discussion Forum"]
+    end
+
+    subgraph EXAM["📝 Assessment Modules"]
+        E1["Online Exam System"]
+        E2["Question Bank"]
+        E3["Automatic Grading"]
+    end
+
+    subgraph CERT["📜 Certification Modules"]
+        CT1["Digital Certificate"]
+        CT2["Credential Verification"]
+    end
+
+    subgraph ANALYTICS["📊 Analytics Modules"]
+        A1["Learning Analytics"]
+        A2["Engagement Monitoring"]
+    end
+
+    subgraph AI["🤖 AI Modules"]
+        AI1["AI Tutor"]
+        AI2["AI Question Generator"]
+        AI3["AI Content Summary"]
+    end
+
+    CORE --> LEARN
+    CORE --> EXAM
+    CORE --> CERT
+    CORE --> ANALYTICS
+    CORE --> AI
+
+    style CORE fill:#1a1a2e,stroke:#e94560,color:#ffffff
+    style LEARN fill:#16213e,stroke:#0f3460,color:#ffffff
+    style EXAM fill:#16213e,stroke:#0f3460,color:#ffffff
+    style CERT fill:#16213e,stroke:#0f3460,color:#ffffff
+    style ANALYTICS fill:#16213e,stroke:#0f3460,color:#ffffff
+    style AI fill:#16213e,stroke:#0f3460,color:#ffffff
+```
+
 ## Core Platform
 
 Di pusat sistem terdapat **core platform** yang menjadi fondasi bagi seluruh modul.

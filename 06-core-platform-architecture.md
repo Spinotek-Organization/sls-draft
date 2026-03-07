@@ -8,6 +8,54 @@ Core platform ini memastikan bahwa seluruh modul dapat berjalan secara konsisten
 
 Pendekatan ini memungkinkan Spinotek Learning System berkembang sebagai platform pembelajaran digital yang fleksibel dan scalable.
 
+## Arsitektur Platform
+
+```mermaid
+graph TB
+    subgraph TENANT["🏢 Multi-Tenant Layer"]
+        T1["🎓 Institusi A<br>lms.kampus-a.ac.id"]
+        T2["🏫 Institusi B<br>learning.sekolah-b.sch.id"]
+        T3["📚 Institusi C<br>training.lembaga-c.id"]
+    end
+
+    subgraph WHITE["🏷️ White Label Layer"]
+        W1["🎨 Custom Logo & Warna"]
+        W2["🌐 Custom Domain"]
+        W3["📧 Custom Email"]
+    end
+
+    subgraph INTEGRATION["🔗 Integration Layer"]
+        I1["REST API"]
+        I2["Webhook"]
+        I3["SSO"]
+    end
+
+    subgraph CORE["🔧 Core Platform"]
+        CP1["👥 User Management"]
+        CP2["🔐 Auth & Permission"]
+        CP3["📦 Module Engine"]
+        CP4["💾 Data Isolation"]
+    end
+
+    subgraph EXTERNAL["🏛️ Sistem Eksternal Institusi"]
+        E1["Sistem Informasi Akademik"]
+        E2["Sistem Keuangan"]
+        E3["Sistem Kepegawaian"]
+    end
+
+    TENANT --> WHITE --> CORE
+    INTEGRATION --> CORE
+    EXTERNAL --> INTEGRATION
+
+    style TENANT fill:#1a1a2e,stroke:#e94560,color:#ffffff
+    style WHITE fill:#16213e,stroke:#0f3460,color:#ffffff
+    style INTEGRATION fill:#0f3460,stroke:#533483,color:#ffffff
+    style CORE fill:#533483,stroke:#e94560,color:#ffffff
+    style EXTERNAL fill:#2d2d2d,stroke:#666666,color:#ffffff
+```
+
+---
+
 ## 1. Multi-Tenant Architecture
 
 Spinotek Learning System dirancang dengan pendekatan **multi-tenant architecture** yang memungkinkan satu platform melayani banyak institusi secara bersamaan.
