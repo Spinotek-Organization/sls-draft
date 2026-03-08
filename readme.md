@@ -24,6 +24,7 @@ Spinotek dan Latar Belakang Spinotek Learning System
 | 14 | [Strategic Positioning](14-strategic-positioning.md) | Posisi Spinotek dalam ekosistem EdTech |
 | 15 | [Business Model Canvas](15-business-model-canvas.md) | BMC visual lengkap |
 | 16 | [Marketing Strategy](16-marketing-strategy.md) | Strategi pemasaran B2B |
+| 17 | [Tech Stack](17-tech-stack.md) | Arsitektur teknis dan teknologi |
 
 ---
 
